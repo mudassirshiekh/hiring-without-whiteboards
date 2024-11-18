@@ -12,7 +12,7 @@ The companies and teams listed here use interview techniques and questions that 
 Please open a [PR](https://github.com/poteto/hiring-without-whiteboards/pull/new/master) to be added.
 
 ### Duds
-
+## By Mudassir Alam
 If you've been through an interview with one of these companies recently, and your experience suggests otherwise from their description, please open a [PR](https://github.com/poteto/hiring-without-whiteboards/pull/new/master) to remove them from this list.
 
 ### I want to search/sort/filter/group by X!
